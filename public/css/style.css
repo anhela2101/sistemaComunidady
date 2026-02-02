@@ -1,0 +1,23 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+    background: linear-gradient(rgba(255,0,128,.7), rgba(255,0,128,.7)),
+        url('/images/hero.png') center/cover;
+    padding: 120px 20px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.cta {
+    background: #ff4081;
+    padding: 80px 20px;
+}
+
+.card img {
+    height: 220px;
+    object-fit: cover;
+}
